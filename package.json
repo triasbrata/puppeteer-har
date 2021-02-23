@@ -18,7 +18,8 @@
   "author": "Michał Janaszek",
   "license": "MIT",
   "dependencies": {
-    "chrome-har": "https://github.com/triasbrata/chrome-har"
+    "chrome-har": "https://github.com/triasbrata/chrome-har",
+    "chrome-har-capturer": "^0.13.9"
   },
   "peerDependencies": {
     "puppeteer": ">=1.0.0"
